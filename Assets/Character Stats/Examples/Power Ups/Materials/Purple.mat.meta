@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a1097f262e129646a72e8dc68465429
+timeCreated: 1513114247
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Power Ups/Materials/Purple.mat
+  uploadId: 263871

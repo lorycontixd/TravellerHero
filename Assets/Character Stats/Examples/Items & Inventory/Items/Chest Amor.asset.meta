@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fc0a5b0c9ac0094195db27cc796ae78
+timeCreated: 1516756165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Items & Inventory/Items/Chest Amor.asset
+  uploadId: 263871

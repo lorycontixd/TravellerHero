@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6033432603e1de94d83126862f25383f
+timeCreated: 1513105965
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Power Ups/Power Ups.unity
+  uploadId: 263871

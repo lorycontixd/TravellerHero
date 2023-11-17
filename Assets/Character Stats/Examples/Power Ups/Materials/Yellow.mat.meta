@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69f4bbab3f8bd0c48a20529d7b04f1a1
+timeCreated: 1513114387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Power Ups/Materials/Yellow.mat
+  uploadId: 263871

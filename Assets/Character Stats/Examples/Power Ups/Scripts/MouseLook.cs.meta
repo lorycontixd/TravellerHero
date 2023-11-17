@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 463dd138815926941bb99faa8b0c8e17
+timeCreated: 1513107569
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Power Ups/Scripts/MouseLook.cs
+  uploadId: 263871

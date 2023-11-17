@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: acb8c8572c7b3b84ab8ac49425b59836
+timeCreated: 1516747589
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Power Ups/Scripts/PlayerBarUI.cs
+  uploadId: 263871

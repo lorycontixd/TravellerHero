@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54e1bf68d0f57a240a6234a5c66f4d25
+timeCreated: 1516756165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Items & Inventory/Items/Shield.asset
+  uploadId: 263871

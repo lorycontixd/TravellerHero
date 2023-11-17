@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d8c0f0f3df7c5f40b5b2f40ed311192
+timeCreated: 1516756165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Items & Inventory/Items/Gem.asset
+  uploadId: 263871

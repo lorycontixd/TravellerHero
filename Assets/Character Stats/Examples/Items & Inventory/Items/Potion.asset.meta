@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c33f8f5007ddce4f8355df08445616d
+timeCreated: 1516756165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106351
+  packageName: Character Stats
+  packageVersion: 1.1.1
+  assetPath: Assets/Character Stats/Examples/Items & Inventory/Items/Potion.asset
+  uploadId: 263871
